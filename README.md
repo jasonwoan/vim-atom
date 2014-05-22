@@ -1,1 +1,3 @@
-# atom - a vim color scheme inspired by the atom editor
+# atom
+
+a vim color scheme inspired by the atom editor
