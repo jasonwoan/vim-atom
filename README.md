@@ -2,4 +2,4 @@
 
 a vim color scheme inspired by github's [atom editor](https://atom.io/)
 
-WIP
+![Screenshot](http://jasonwoan.com/img/atom-vim.png)
