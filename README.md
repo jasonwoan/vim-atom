@@ -1,6 +1,6 @@
 # vim-atom
 
-a vim color scheme inspired by github's [atom editor](https://atom.io/)
+A vim color scheme inspired by github's [atom editor](https://atom.io/). WIP. I need to work on the 256 palette.
 
 ## Screenshot
 
